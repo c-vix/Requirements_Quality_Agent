@@ -1,0 +1,14 @@
+fastapi
+uvicorn[standard]
+pydantic
+pydantic-settings
+sqlalchemy>=2.0
+psycopg[binary]
+pgvector
+langgraph
+langchain-core
+langchain-anthropic
+sentence-transformers
+spacy
+pytest
+httpx
