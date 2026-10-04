@@ -7,7 +7,7 @@ psycopg[binary]
 pgvector
 langgraph
 langchain-core
-langchain-anthropic
+langchain-openai
 sentence-transformers
 spacy
 pytest
